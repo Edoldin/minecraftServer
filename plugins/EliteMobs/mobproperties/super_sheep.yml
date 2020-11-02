@@ -1,0 +1,4 @@
+isEnabled: true
+entityType: SHEEP
+name: Super Sheep
+baseDamage: 0.0

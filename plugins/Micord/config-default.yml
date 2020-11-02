@@ -1,0 +1,18 @@
+Channel ID: '653102403725426701'
+Block @everyone and @here: false
+Discord Bot Token: NTk1ODMF4kejkyOTkz.1Ns3rT.Y0ur.t0K3n.eMHaM3wYFCf9fE
+Discord Webhook: https://discordapp.com/api/webhooks/insertyourdiscordwebhook
+Discord Chat Format: '&b&l[Discord] &r<{userTag}> {userMessage}'
+Enable Death Message: true
+Death Bot Name: Death Notification
+Death Bot Avatar: https://i.ibb.co/CwvByzp/a-4a2d4c71d0ec0c7f72792d7280a6529d.webp
+Death Message: '```{username} {reason}```'
+Enable Join Message: true
+Join Bot Name: Join Notification
+Join Bot Avatar: https://i.ibb.co/CwvByzp/a-4a2d4c71d0ec0c7f72792d7280a6529d.webp
+Join Message: '```{username} joined the game```'
+Enable Leave Message: true
+Leave Bot Name: Leave Notification
+Leave Bot Avatar: https://i.ibb.co/CwvByzp/a-4a2d4c71d0ec0c7f72792d7280a6529d.webp
+Leave Message: '{username} left the game'
+Version: 2

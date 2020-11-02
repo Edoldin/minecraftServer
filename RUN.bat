@@ -1,0 +1,1 @@
+java -Xms4g -Xmx4g -jar paper-server.jar
