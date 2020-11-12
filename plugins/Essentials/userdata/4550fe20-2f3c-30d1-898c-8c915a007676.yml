@@ -1,7 +1,7 @@
 lastAccountName: Edolin
 timestamps:
-  login: 1605132509003
-  logout: 1605132612504
+  login: 1605203045259
+  logout: 1605203059257
 ipAddress: 188.127.172.124
 lastlocation:
   world: world
@@ -12,9 +12,9 @@ lastlocation:
   pitch: 8.850015
 logoutlocation:
   world: world
-  x: 227.05414428258075
-  y: 88.76522127233079
-  z: -1191.7268726248644
-  yaw: -112.048584
-  pitch: 28.49978
+  x: 258.727622743595
+  y: 78.27646721375382
+  z: -1199.76398664518
+  yaw: -88.80024
+  pitch: 33.299778
 afk: false
