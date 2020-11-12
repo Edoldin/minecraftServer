@@ -1,1 +1,1 @@
-java -Xms4g -Xmx4g -jar paper-server.jar
+java -Xms4g -Xmx4g -jar paper-server.jar nogui

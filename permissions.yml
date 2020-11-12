@@ -1,1 +1,19 @@
-chestsort.use.*
+groups:
+  default:
+    options:
+      default:true
+    permissions:
+    - chestsort.use
+    - chestsort.use.inventory
+
+  builder:
+    permissions:
+    - chestsort.use
+    - chestsort.use.inventory
+    - worldedit.*
+  Admin:
+    permissions:
+    - worldedit *
+    - chestsort.use
+    - chestsort.use.inventory
+schema-version: 1

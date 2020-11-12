@@ -186,6 +186,7 @@ global-effects:
 # - unbreaking: 2
 # - efficiency: 5
 required-enchantments:
+- efficiency: 1
 
 # Tools must not have these enchantments or have them lower than this level to fell trees
 # ex:

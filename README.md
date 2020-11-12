@@ -28,4 +28,7 @@
 - [TreeFeller](https://dev.bukkit.org/projects/thizzyz-tree-feller)
 - [coloredSigns](https://www.spigotmc.org/resources/colored-signs.31676/)
 - [ChestSort](https://www.spigotmc.org/resources/1-8-1-16-chestsort-api.59773/)
+- [Multiverse2](https://github.com/Multiverse/Multiverse-Core/wiki)
+- [LuckPerms](https://luckperms.net/wiki/Home)
+- [EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)
 - [Micord](https://www.spigotmc.org/resources/micord.85404/)

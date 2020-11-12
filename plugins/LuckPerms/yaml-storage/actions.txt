@@ -1,0 +1,7 @@
+{"timestamp":1605033169,"source":{"uniqueId":"4550fe20-2f3c-30d1-898c-8c915a007676","name":"Edolin"},"target":{"type":"GROUP","name":"admin"},"description":"create"}
+{"timestamp":1605033177,"source":{"uniqueId":"4550fe20-2f3c-30d1-898c-8c915a007676","name":"Edolin"},"target":{"type":"GROUP","name":"constructor"},"description":"create"}
+{"timestamp":1605033284,"source":{"uniqueId":"4550fe20-2f3c-30d1-898c-8c915a007676","name":"Edolin"},"target":{"type":"GROUP","name":"owner"},"description":"create"}
+{"timestamp":1605033334,"source":{"uniqueId":"4550fe20-2f3c-30d1-898c-8c915a007676","name":"Edolin"},"target":{"type":"USER","uniqueId":"4550fe20-2f3c-30d1-898c-8c915a007676","name":"Edolin"},"description":"parent set owner"}
+{"timestamp":1605033428,"source":{"uniqueId":"4550fe20-2f3c-30d1-898c-8c915a007676","name":"Edolin"},"target":{"type":"GROUP","name":"owner"},"description":"permission set worldedit true"}
+{"timestamp":1605033647,"source":{"uniqueId":"4550fe20-2f3c-30d1-898c-8c915a007676","name":"Edolin"},"target":{"type":"GROUP","name":"owner"},"description":"permission set worldedit true"}
+{"timestamp":1605033806,"source":{"uniqueId":"4550fe20-2f3c-30d1-898c-8c915a007676","name":"Edolin"},"target":{"type":"GROUP","name":"owner"},"description":"permission set * true"}
