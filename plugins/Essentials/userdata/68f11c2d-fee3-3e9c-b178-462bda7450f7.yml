@@ -1,7 +1,7 @@
 lastAccountName: dracosara
 timestamps:
-  login: 1605132834279
-  logout: 1605134532157
+  login: 1605265225238
+  logout: 1605280798434
 ipAddress: 188.127.172.124
 lastlocation:
   world: world
@@ -11,9 +11,9 @@ lastlocation:
   yaw: -110.84973
   pitch: 28.650076
 logoutlocation:
-  world: world
-  x: -346.4466637901125
-  y: 63.0
-  z: 1252.532912254477
-  yaw: -188.2475
-  pitch: 4.3497386
+  world: world_nether
+  x: -83.45587583087375
+  y: 32.0
+  z: 168.30000001192093
+  yaw: -246.1577
+  pitch: 3.8994532
