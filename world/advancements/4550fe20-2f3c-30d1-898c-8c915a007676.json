@@ -367,6 +367,7 @@
     "criteria": {
       "minecraft:skeleton": "2020-11-10 20:18:30 +0100",
       "minecraft:creeper": "2020-11-10 20:18:27 +0100",
+      "minecraft:husk": "2020-11-14 15:58:29 +0100",
       "minecraft:zombie": "2020-11-10 20:18:21 +0100"
     },
     "done": false

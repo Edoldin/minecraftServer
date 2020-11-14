@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-11-14 00:34:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-11-08 22:18:07 +0100"
@@ -539,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-11-14 00:34:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2020-11-10 17:54:54 +0100"
@@ -587,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2020-11-14 18:27:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2020-11-08 17:53:30 +0100"
@@ -628,9 +646,11 @@
       "minecraft:blaze": "2020-11-09 12:33:08 +0100",
       "minecraft:skeleton": "2020-11-08 21:54:49 +0100",
       "minecraft:ghast": "2020-11-09 20:26:04 +0100",
+      "minecraft:hoglin": "2020-11-14 18:24:36 +0100",
       "minecraft:magma_cube": "2020-11-11 18:55:32 +0100",
       "minecraft:spider": "2020-11-08 23:17:06 +0100",
       "minecraft:creeper": "2020-11-08 21:51:02 +0100",
+      "minecraft:phantom": "2020-11-14 18:15:41 +0100",
       "minecraft:zombified_piglin": "2020-11-09 13:55:44 +0100",
       "minecraft:witch": "2020-11-10 21:21:19 +0100",
       "minecraft:wither_skeleton": "2020-11-09 12:37:39 +0100",
@@ -639,6 +659,7 @@
       "minecraft:piglin": "2020-11-09 19:16:35 +0100",
       "minecraft:silverfish": "2020-11-09 02:38:53 +0100",
       "minecraft:enderman": "2020-11-09 21:08:26 +0100",
+      "minecraft:endermite": "2020-11-14 17:27:01 +0100",
       "minecraft:zombie": "2020-11-08 21:50:00 +0100",
       "minecraft:drowned": "2020-11-08 23:10:12 +0100",
       "minecraft:zombie_villager": "2020-11-09 20:29:40 +0100"
@@ -1396,6 +1417,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2020-11-14 18:25:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2020-11-08 23:31:54 +0100"
@@ -1453,6 +1480,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2020-11-11 23:31:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-11-14 00:34:42 +0100"
     },
     "done": true
   },
@@ -1625,6 +1658,12 @@
   "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_blue_wool": "2020-11-11 14:22:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2020-11-14 18:30:53 +0100"
     },
     "done": true
   },
@@ -1847,6 +1886,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-11-09 02:09:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2020-11-14 18:25:32 +0100"
     },
     "done": true
   },
@@ -2816,6 +2861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2020-11-14 18:27:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2020-11-08 21:46:53 +0100"
@@ -2969,6 +3020,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-11-08 22:10:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2020-11-14 18:27:59 +0100"
     },
     "done": true
   },

@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-14 01:33:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2020-11-08 22:46:30 +0100"
@@ -485,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-14 01:33:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2020-11-08 22:59:40 +0100"
@@ -512,6 +524,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2020-11-09 03:06:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-14 01:33:12 +0100"
     },
     "done": true
   },
@@ -563,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-14 01:33:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-11-08 22:58:32 +0100"
@@ -610,6 +634,12 @@
       "has_bed": "2020-11-08 23:33:13 +0100"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2020-11-14 00:40:40 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
@@ -1257,6 +1287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-14 01:33:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-11-08 23:10:35 +0100"
@@ -1470,6 +1506,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-08 22:34:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-14 01:33:12 +0100"
     },
     "done": true
   },
@@ -1783,6 +1825,7 @@
       "minecraft:deep_cold_ocean": "2020-11-09 01:58:45 +0100",
       "minecraft:taiga_hills": "2020-11-08 23:15:57 +0100",
       "minecraft:desert": "2020-11-10 23:58:28 +0100",
+      "minecraft:deep_frozen_ocean": "2020-11-14 00:35:13 +0100",
       "minecraft:badlands": "2020-11-09 01:59:06 +0100",
       "minecraft:beach": "2020-11-08 22:30:42 +0100",
       "minecraft:river": "2020-11-08 22:30:31 +0100",
@@ -1887,6 +1930,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-09 00:29:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2020-11-14 00:40:04 +0100"
     },
     "done": true
   },
@@ -2007,6 +2056,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2020-11-09 20:02:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-11-14 00:40:40 +0100"
     },
     "done": true
   },
@@ -2146,6 +2201,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-11-08 22:25:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-14 01:33:12 +0100"
     },
     "done": true
   },
