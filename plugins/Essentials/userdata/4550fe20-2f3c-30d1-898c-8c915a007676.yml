@@ -1,20 +1,21 @@
 lastAccountName: Edolin
 timestamps:
-  login: 1605365293128
-  logout: 1605365941234
+  login: 1605435365249
+  logout: 1605436162261
+  lastteleport: 1605395354245
 ipAddress: 188.127.172.124
 lastlocation:
-  world: world
-  x: 153.69999998807907
-  y: 63.0
-  z: 173.30000001192093
-  yaw: -335.39957
-  pitch: 8.850015
+  world: world_nether
+  x: -1.737419940031249
+  y: 75.0
+  z: -28.7852619592182
+  yaw: -110.700294
+  pitch: 27.750105
 logoutlocation:
   world: world
-  x: 205.49826694019478
-  y: 68.2568315446241
-  z: -1133.7374038306805
-  yaw: 83.62317
-  pitch: 1.050007
+  x: 307.6980951647134
+  y: 106.22576254856074
+  z: -1139.7916380817412
+  yaw: -178.23175
+  pitch: 47.247852
 afk: false

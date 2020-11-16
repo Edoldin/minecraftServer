@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-11-15 16:26:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-11-09 21:05:54 +0100"
@@ -284,6 +290,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2020-11-09 02:11:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-11-15 00:29:40 +0100"
     },
     "done": true
   },
@@ -613,8 +625,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2020-11-15 00:26:59 +0100",
       "minecraft:skeleton": "2020-11-08 22:59:49 +0100",
       "minecraft:ghast": "2020-11-14 18:37:28 +0100",
+      "minecraft:hoglin": "2020-11-15 23:07:58 +0100",
+      "minecraft:vindicator": "2020-11-15 13:24:30 +0100",
       "minecraft:magma_cube": "2020-11-14 18:19:40 +0100",
       "minecraft:spider": "2020-11-09 00:05:09 +0100",
       "minecraft:creeper": "2020-11-09 00:04:54 +0100",
@@ -629,7 +644,8 @@
       "minecraft:enderman": "2020-11-09 00:24:21 +0100",
       "minecraft:silverfish": "2020-11-11 20:11:08 +0100",
       "minecraft:zombie": "2020-11-08 22:57:48 +0100",
-      "minecraft:drowned": "2020-11-09 21:02:16 +0100"
+      "minecraft:drowned": "2020-11-09 21:02:16 +0100",
+      "minecraft:zombie_villager": "2020-11-15 13:11:33 +0100"
     },
     "done": false
   },
@@ -642,6 +658,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-11-09 00:36:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-11-15 22:45:09 +0100"
     },
     "done": true
   },
@@ -1374,7 +1396,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2020-11-09 02:03:06 +0100",
       "minecraft:nether_wastes": "2020-11-09 02:01:17 +0100",
-      "minecraft:soul_sand_valley": "2020-11-09 02:05:01 +0100"
+      "minecraft:soul_sand_valley": "2020-11-09 02:05:01 +0100",
+      "minecraft:basalt_deltas": "2020-11-15 23:00:45 +0100"
     },
     "done": false
   },
@@ -1861,6 +1884,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-11-15 00:33:09 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2020-11-09 02:09:24 +0100"
@@ -1930,6 +1959,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2020-11-08 22:39:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-11-15 00:29:40 +0100"
     },
     "done": true
   },
@@ -2131,6 +2166,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-11-15 13:55:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-11-08 23:08:13 +0100"
@@ -2176,6 +2217,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2020-11-09 02:11:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2020-11-15 22:41:20 +0100"
     },
     "done": true
   },
@@ -2521,6 +2568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2020-11-15 00:33:09 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2020-11-14 18:36:19 +0100"
@@ -2590,6 +2643,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-11-09 13:36:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-11-15 12:42:23 +0100"
     },
     "done": true
   },
@@ -2668,6 +2727,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2020-11-09 12:30:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2020-11-15 22:49:46 +0100"
     },
     "done": true
   },

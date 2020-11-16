@@ -1,12 +1,19 @@
 lastAccountName: ImS_cherz_oEne
 timestamps:
-  login: 1605316840658
-  logout: 1605319287077
+  login: 1605474165633
+  logout: 1605480864773
 ipAddress: 150.244.199.73
 logoutlocation:
   world: world
-  x: 28.577180031351382
-  y: 117.0
-  z: 1901.1377246760571
-  yaw: -347.70035
-  pitch: 31.499933
+  x: 12.36577641535822
+  y: 109.0
+  z: 1913.5267985047524
+  yaw: -262.21802
+  pitch: 21.299578
+lastlocation:
+  world: world
+  x: -464.61715006605084
+  y: 69.0
+  z: 1201.3876576855655
+  yaw: -11.223022
+  pitch: 27.000134
