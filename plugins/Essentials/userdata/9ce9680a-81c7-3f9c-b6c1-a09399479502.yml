@@ -1,7 +1,7 @@
 lastAccountName: Parai12
 timestamps:
-  login: 1605562409018
-  logout: 1605566985014
+  login: 1605650181627
+  logout: 1605652424819
 ipAddress: 82.158.132.163
 lastlocation:
   world: world
@@ -12,8 +12,8 @@ lastlocation:
   pitch: 5.0997925
 logoutlocation:
   world: world
-  x: -715.3402229664929
-  y: 11.0
-  z: 1275.904917083871
-  yaw: 174.59479
-  pitch: 39.450294
+  x: -381.94456280432365
+  y: 64.0
+  z: 1237.8759110744256
+  yaw: 326.0902
+  pitch: 36.449856

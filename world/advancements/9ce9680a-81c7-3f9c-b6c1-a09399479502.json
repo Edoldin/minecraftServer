@@ -519,7 +519,9 @@
     "criteria": {
       "minecraft:skeleton": "2020-11-09 21:42:34 +0100",
       "minecraft:ghast": "2020-11-09 20:10:48 +0100",
+      "minecraft:hoglin": "2020-11-17 16:13:48 +0100",
       "minecraft:spider": "2020-11-09 20:01:19 +0100",
+      "minecraft:creeper": "2020-11-17 23:33:38 +0100",
       "minecraft:zombified_piglin": "2020-11-15 20:08:45 +0100",
       "minecraft:piglin": "2020-11-09 19:45:13 +0100",
       "minecraft:silverfish": "2020-11-09 14:23:14 +0100",
@@ -540,6 +542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2020-11-17 23:00:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2020-11-15 21:05:29 +0100"
@@ -555,6 +563,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2020-11-09 14:34:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2020-11-17 20:09:03 +0100"
     },
     "done": true
   },
@@ -705,6 +719,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2020-11-09 22:48:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-11-17 23:00:04 +0100"
     },
     "done": true
   },
@@ -1050,6 +1070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-11-17 23:00:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2020-11-10 20:19:38 +0100"
@@ -1100,9 +1126,21 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-11-17 23:03:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-11-08 22:31:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2020-11-17 15:10:58 +0100"
     },
     "done": true
   },
@@ -1139,6 +1177,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2020-11-15 20:37:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2020-11-17 15:10:36 +0100"
     },
     "done": true
   },
@@ -1235,13 +1279,20 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2020-11-10 00:20:05 +0100",
-      "minecraft:nether_wastes": "2020-11-09 19:15:53 +0100"
+      "minecraft:nether_wastes": "2020-11-09 19:15:53 +0100",
+      "minecraft:soul_sand_valley": "2020-11-17 19:58:37 +0100"
     },
     "done": false
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2020-11-09 13:22:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2020-11-17 15:24:34 +0100"
     },
     "done": true
   },
@@ -1302,6 +1353,18 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-11-08 23:23:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2020-11-17 23:00:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-11-17 20:11:44 +0100"
     },
     "done": true
   },
@@ -1896,6 +1959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2020-11-17 15:24:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-08 23:31:39 +0100"
@@ -2049,6 +2118,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2020-11-09 13:26:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_redstone_ore": "2020-11-17 15:10:36 +0100"
     },
     "done": true
   },
@@ -2304,6 +2379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2020-11-17 15:10:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2020-11-10 20:19:38 +0100"
@@ -2352,6 +2433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-11-17 23:00:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2020-11-15 20:22:20 +0100"
@@ -2373,6 +2460,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2020-11-08 22:31:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-11-17 23:00:04 +0100"
     },
     "done": true
   },
@@ -2433,6 +2526,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-11-08 22:19:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2020-11-17 17:08:19 +0100"
     },
     "done": true
   },
