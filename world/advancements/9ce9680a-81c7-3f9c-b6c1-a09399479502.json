@@ -522,6 +522,7 @@
       "minecraft:hoglin": "2020-11-17 16:13:48 +0100",
       "minecraft:spider": "2020-11-09 20:01:19 +0100",
       "minecraft:creeper": "2020-11-17 23:33:38 +0100",
+      "minecraft:slime": "2020-12-05 00:24:32 +0100",
       "minecraft:zombified_piglin": "2020-11-15 20:08:45 +0100",
       "minecraft:piglin": "2020-11-09 19:45:13 +0100",
       "minecraft:silverfish": "2020-11-09 14:23:14 +0100",
@@ -1110,6 +1111,7 @@
       "minecraft:wooded_hills": "2020-11-09 14:12:17 +0100",
       "minecraft:stone_shore": "2020-11-08 23:47:48 +0100",
       "minecraft:wooded_badlands_plateau": "2020-11-09 14:18:17 +0100",
+      "minecraft:swamp": "2020-12-05 00:24:03 +0100",
       "minecraft:plains": "2020-11-08 23:44:23 +0100"
     },
     "done": false

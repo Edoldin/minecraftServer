@@ -473,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2020-12-04 23:15:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-09 13:20:52 +0100"
@@ -1452,6 +1458,7 @@
       "minecraft:river": "2020-11-08 17:51:07 +0100",
       "minecraft:lukewarm_ocean": "2020-11-11 18:10:29 +0100",
       "minecraft:snowy_taiga": "2020-11-09 00:44:14 +0100",
+      "minecraft:birch_forest_hills": "2020-12-04 23:22:53 +0100",
       "minecraft:wooded_mountains": "2020-11-08 23:41:27 +0100",
       "minecraft:wooded_hills": "2020-11-09 02:14:18 +0100",
       "minecraft:stone_shore": "2020-11-08 23:45:44 +0100",
@@ -2312,6 +2319,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-12-05 00:22:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2020-11-09 11:39:19 +0100"
@@ -3083,6 +3096,12 @@
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2020-11-15 00:13:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2020-12-05 00:22:26 +0100"
     },
     "done": true
   },
