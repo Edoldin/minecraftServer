@@ -523,6 +523,7 @@
       "minecraft:spider": "2020-11-09 20:01:19 +0100",
       "minecraft:creeper": "2020-11-17 23:33:38 +0100",
       "minecraft:slime": "2020-12-05 00:24:32 +0100",
+      "minecraft:phantom": "2020-12-05 21:16:19 +0100",
       "minecraft:zombified_piglin": "2020-11-15 20:08:45 +0100",
       "minecraft:piglin": "2020-11-09 19:45:13 +0100",
       "minecraft:silverfish": "2020-11-09 14:23:14 +0100",
@@ -858,6 +859,12 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2020-11-10 23:59:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2020-12-05 22:30:53 +0100"
     },
     "done": true
   },
@@ -2399,6 +2406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2020-12-05 22:30:53 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2020-11-10 20:50:09 +0100"
@@ -2450,6 +2463,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-11-09 23:08:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-12-05 14:38:27 +0100"
     },
     "done": true
   },
