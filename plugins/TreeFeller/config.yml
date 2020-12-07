@@ -388,8 +388,6 @@ compatibility-griefprevention: true
 #    - {type: IRON_AXE, allowed-trees: [0,1,3]} <-this tool can only cut down the first, second, and fourth trees defined.
 #    - {type: AIR, damage-mult: 0}
 tools:
-    - WOODEN_AXE
-    - STONE_AXE
     - IRON_AXE
     - GOLDEN_AXE
     - DIAMOND_AXE
